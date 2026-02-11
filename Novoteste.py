@@ -1,2 +1,0 @@
-Testando = 'testenovo'
-print(Testando)
